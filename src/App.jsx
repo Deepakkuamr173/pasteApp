@@ -5,7 +5,10 @@ import Navbar from "./components/Navbar.js";
 import './App.css';
 import { useState } from "react";
 import Home from "./components/Home.js"; 
-import Paste from "./components/Paste.js"; 
+// import Paste from "./components/Paste.js"; 
+
+import Paste from "./components/Paste.jsx";
+
 
 import viewPaste from "./components/viewPaste.jsx";
 
