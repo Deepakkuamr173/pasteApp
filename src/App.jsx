@@ -1,13 +1,13 @@
 
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import Navbar from "./componenets/Navbar.jsx";
+import Navbar from "./components/Navbar.js";
 import './App.css';
 import { useState } from "react";
-import Home from "./componenets/Home.jsx"; 
-import Paste from "./componenets/Paste.jsx"; 
+import Home from "./components/Home.js"; 
+import Paste from "./components/Paste.js"; 
 
-import viewPaste from "./componenets/viewPaste.jsx";
+import viewPaste from "./components/viewPaste.jsx";
 
 // const ViewPaste = () => <div>📝 Viewing Paste</div>;
 
